@@ -1,0 +1,4 @@
+# Versiones fijas para que el servidor use lo mismo que el entorno local (riesgo R13).
+# Requiere Python 3.10 a 3.12 (recomendado 3.12).
+streamlit==1.40.1
+pandas==2.2.3

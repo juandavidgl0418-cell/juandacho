@@ -1,0 +1,7 @@
+producto;cantidad;precio_unitario;fecha_venta;vendedor
+Café molido 500 g;3;12.500,50;05/10/2026;Martínez
+Panela orgánica;10;4.200;05/10/2026;Muñoz
+Chocolate de mesa;-2;8.900;06/10/2026;Martínez
+Arepa de maíz;8;3.150,75;06/10/2026;Peña
+Queso campesino;;15.000;07/10/2026;Muñoz
+Bocadillo veleño;5;2.800;31/09/2026;Peña
